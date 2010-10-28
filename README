@@ -1,1 +1,14 @@
 A straightforward example for using jsio and csp_eventlet together.
+
+
+Relevant files are:
+  - server.py
+  - static/test.js
+
+
+To test this out, 
+ - run python setup.py install
+ - run: csp_eventlet_jsio_example
+ - navigate to: http://localhost:8000/test.html
+ - play around in the js console (as instructed)
+ 
